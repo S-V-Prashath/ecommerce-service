@@ -1,0 +1,4 @@
+{"eventId": "evt-001", "timestamp": "2025-09-08T17:30:00Z", "eventType": "OrderCreated", "orderId": "ORD1", "customerId": "cust-8801", "items": [{"itemId": "item-102", "quantity": 1}, {"itemId": "item-355", "quantity": 2}], "totalAmount": 249.99}
+{"eventId": "evt-002", "timestamp": "2025-09-08T17:31:15Z", "eventType": "OrderCreated", "orderId": "ORD2", "customerId": "cust-7254", "items": [{"itemId": "item-810", "quantity": 5}], "totalAmount": 85.50}
+{"eventId": "evt-003", "timestamp": "2025-09-08T17:31:15Z", "eventType": "OrderCreated", "orderId": "ORD3", "customerId": "cust-7254", "items": [{"itemId": "item-810", "quantity": 5}], "totalAmount": 855.50}
+{"eventId": "evt-004", "timestamp": "2025-09-08T17:38:20Z", "eventType": "PaymentReceived", "orderId": "ORD2", "amountPaid": 85.50}
